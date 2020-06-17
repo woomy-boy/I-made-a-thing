@@ -23,7 +23,6 @@ int main()
     cout << " see, he isnt a cool guy, is he?" << endl;
     cout <<" he is not." << CharAge << endl;
     cout << "his ture age is " << NewCharAge << endl;
-    cout << " I made an github lol" << endl;
 
     return 0;
 }
