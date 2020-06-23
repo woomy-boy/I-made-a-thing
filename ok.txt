@@ -1,0 +1,5 @@
+    'Hello' in every  European languages
+    Espanish: Hola
+    French: *Something in french 
+    German: *Something in german 
+    k bye
