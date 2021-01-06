@@ -1,5 +1,5 @@
     'Hello' in every  European languages
     Espanish: Hola
-    French: *Something in french 
-    German: *Something in german 
+    French: bonjour
+    German: hallo
     k bye
