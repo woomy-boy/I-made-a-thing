@@ -17,6 +17,7 @@ int main()
     cout << "and he's mother is dead so we dont talk about her." << endl;
     cout << "John does his homework." << endl;
     cout << "here is " << CharName  << endl ;
+    cout << "(Yes this is supposed to be an image of" << CharName "." << endl;
     cout << "        /                |" << endl;
     cout << "       /                 | " << endl;
     cout << "      /                  |" << endl;
