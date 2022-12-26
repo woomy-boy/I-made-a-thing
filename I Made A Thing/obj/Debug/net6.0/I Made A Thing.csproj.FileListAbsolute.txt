@@ -1,0 +1,15 @@
+Y:\Code\C++\I-made-a-thing\I Made A Thing\bin\Debug\net6.0\I Made A Thing.exe
+Y:\Code\C++\I-made-a-thing\I Made A Thing\bin\Debug\net6.0\I Made A Thing.deps.json
+Y:\Code\C++\I-made-a-thing\I Made A Thing\bin\Debug\net6.0\I Made A Thing.runtimeconfig.json
+Y:\Code\C++\I-made-a-thing\I Made A Thing\bin\Debug\net6.0\I Made A Thing.dll
+Y:\Code\C++\I-made-a-thing\I Made A Thing\bin\Debug\net6.0\ref\I Made A Thing.dll
+Y:\Code\C++\I-made-a-thing\I Made A Thing\bin\Debug\net6.0\I Made A Thing.pdb
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.csproj.AssemblyReference.cache
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.AssemblyInfoInputs.cache
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.AssemblyInfo.cs
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.csproj.CoreCompileInputs.cache
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.dll
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\ref\I Made A Thing.dll
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.pdb
+Y:\Code\C++\I-made-a-thing\I Made A Thing\obj\Debug\net6.0\I Made A Thing.genruntimeconfig.cache
