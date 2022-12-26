@@ -23,7 +23,7 @@ int main()
     cout << "     _____________________" << endl;
     cout << " see, he isnt a cool guy, is he?" << endl;
     cout <<" he is not " << CharAge; cout << " is he???" << endl;
-    cout << "his ture age is " << NewCharAge; cout << "." << endl;
+    cout << "his true age is " << NewCharAge; cout << "." << endl;
    cout << "here is me trying and than failing to write cpp. " << endl;
 
     return 0;
